@@ -1,0 +1,89 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  text-align: center;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: green;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.team {
+  margin-top: 50px;
+}
+.bala {
+  border: red solid 3px;
+  background-color: aquamarine;
+  color: brown;
+  width: 20%;
+  padding: 10px;
+  padding-bottom: 40px;
+  margin-left: 300px;
+  float: left;
+}
+.bala:hover {
+  filter: drop-shadow(0 0 10px #0c04ffeb);
+  transform: scale(1.5);
+}
+.tech {
+  background-color: blue;
+  color: rgb(255, 2, 251);
+  font-size: 30px;
+  text-align: center;
+}
+.rajkumar {
+  border: red solid 3px;
+  background-color: aquamarine;
+  color: brown;
+  width: 20%;
+  padding: 10px;
+  padding-bottom: 40px;
+  margin-right: 100px;
+  margin-left: 300px;
+  float: left;
+}
+.rajkumar:hover {
+  filter: drop-shadow(0 0 10px #0c04ffeb);
+  transform: scale(1.5);
+}
+.deena {
+  border: red solid 3px;
+  background-color: aquamarine;
+  color: brown;
+  width: 20%;
+  padding: 10px;
+  padding-bottom: 30px;
+  margin-left: 300px;
+  float: left;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.deena:hover {
+  filter: drop-shadow(0 0 10px #0c04ffeb);
+  transform: scale(1.5);
+}
+.aneesh {
+  border: red solid 3px;
+  background-color: aquamarine;
+  color: brown;
+  width: 20%;
+  padding: 10px;
+  padding-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 300px;
+  float: left;
+  margin-top: 100px;
+}
+.aneesh:hover {
+  filter: drop-shadow(0 0 10px #0c04ffeb);
+  transform: scale(1.5);
+}
